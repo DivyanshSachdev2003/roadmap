@@ -3,12 +3,14 @@
     "id": 1,
     "name": "Full Stack Web Development",
     "detail": "In This Roadmap, We will learn about how to become a full stack web developer from scratch",
-    "link": "https://drive.google.com/file/d/1Pa7oNUWa4hTW0Yg2WFIK7ULLOMaN3rpH/preview"
+    "link": "https://drive.google.com/file/d/1Pa7oNUWa4hTW0Yg2WFIK7ULLOMaN3rpH/preview",
+    "image": "https://drive.google.com/file/d/1WV3RzlpGF-92ReGCvXdZ0aGikY7H307r/view?usp=sharing";
   },
   {
     "id": 1,
     "name": "ReactJS",
     "detail": "In This Roadmap, We will learn about how to learn React from scratch",
-    "link": "https://drive.google.com/file/d/1Pa7oNUWa4hTW0Yg2WFIK7ULLOMaN3rpH/preview"
+    "link": "https://drive.google.com/file/d/1Pa7oNUWa4hTW0Yg2WFIK7ULLOMaN3rpH/preview",
+    "image": "https://drive.google.com/file/d/1WV3RzlpGF-92ReGCvXdZ0aGikY7H307r/view?usp=sharing";
   }
 ]
