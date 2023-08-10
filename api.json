@@ -64,7 +64,38 @@
     "name": "IoT Development Roadmap",
     "detail": "In this roadmap, we will learn about how to learn iot development from scratch",
     "link": "https://drive.google.com/file/d/12ZEXOljc0BDoSJFXLdDhD1wANX7PMdwi/preview"  
+  },
+      {
+    "id": 12,
+    "name": "DJANGO Development Roadmap",
+    "detail": "In this roadmap, we will learn about how to learn django development from scratch",
+    "link": "https://drive.google.com/file/d/1mX2EV2YjfoFI1t-zwMLMk5apd90mtbK5/preview" 
+  },
+     {
+    "id": 13,
+    "name": "AR/VR Development Roadmap",
+    "detail": "In this roadmap, we will learn about how to learn ar/vr development from scratch",
+    "link": "https://drive.google.com/file/d/1_I3K4OgDe0QlROW_0brrEaj1KPbxtKMk/preview"
+  },
+     {
+    "id": 14,
+    "name": "FLASK Development Roadmap",
+    "detail": "In this roadmap, we will learn about how to learn flask development from scratch",
+    "link": "https://drive.google.com/file/d/1ST7ntuhWridLY5kdxU0PoRerZTOMFgQL/preview"
+  },
+     {
+    "id": 15,
+    "name": "EXPRESS Development Roadmap",
+    "detail": "In this roadmap, we will learn about how to learn express development from scratch",
+    "link": "https://drive.google.com/file/d/1gn--4TRE7pxeXTtoqXSnppFRLzruF5u7/preview"
+  },
+     {
+    "id": 16,
+    "name": "GUI Development Roadmap",
+    "detail": "In this roadmap, we will learn about how to learn gui development from scratch",
+    "link": "https://drive.google.com/file/d/1OTe9J66uvw6LzYLOjUt7uk0SJYf8YkTq/preview" 
   }
+     
      
      
 ]
